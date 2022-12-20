@@ -2,4 +2,4 @@
 
 ### Fetch API (get request)
 
-[open in GH Pages](https://tatianawansiedler.github.io/)
+[open in GH Pages](https://tatianawansiedler.github.io/product_card-Fetch-API-/)
